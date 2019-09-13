@@ -8,6 +8,8 @@ public class MyFanShe {
     public String getName() {
         return name;
     }
+
+    public void say(){}
 }
 class TestDemo {
     public static void main(String[] args) throws Exception {
